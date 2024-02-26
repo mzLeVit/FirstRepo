@@ -1,6 +1,3 @@
-print ('Hello World !')
-print ('Hey wasssup ?')
-print ('Git is legit')
 # Введення (отримання даних)
 ім_я = input("Введіть ваше ім'я: ")
 
